@@ -19,3 +19,10 @@ for (i = 0; i < invited.length; i++) {
     break; // break cycle
   }
 }
+
+// invite status
+if (access) {
+  alert("Sei in lista.");
+} else {
+  alert("Non sei in lista. RIP XD");
+}
