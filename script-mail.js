@@ -26,3 +26,4 @@ if (access) {
 } else {
   alert("Non sei in lista. RIP XD");
 }
+
